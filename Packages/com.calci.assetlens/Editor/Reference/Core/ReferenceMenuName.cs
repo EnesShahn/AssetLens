@@ -46,7 +46,7 @@
 		internal const string WINDOW_SAFE_DELETE = WINDOW + "/Reference Safe Deleter";
 		internal const string WINDOW_REFERENCE_REPLACE = WINDOW + "/Reference Replacer";
 
-		internal const string ASSETMENU_FindReferenceIn = "Assets/Find References In Project";
+		internal const string ASSETMENU_FindReferenceIn = "Assets/Find References In Project (AssetLens)";
 		internal const string ASSETMENU_FindExplicitReferenceInProject =
 			"Assets/Find Explicit References In Project (slow)";
 #endif
